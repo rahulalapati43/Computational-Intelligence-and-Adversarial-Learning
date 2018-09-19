@@ -1,0 +1,34 @@
+File Name: Independent-Florida-Alligator_Dreilinger_FLOvsKEN_wk2.txt
+Char Count: 2967
+Word Count: 647
+Lines Count: 21
+File Name: Local-10_Long_FLOvsKEN_wk2.txt
+Char Count: 2209
+Word Count: 449
+Lines Count: 16
+File Name: Ocala-Star-Banner_Andreu_FLOvsKEN_wk2.txt
+Char Count: 3077
+Word Count: 674
+Lines Count: 28
+File Name: Orlando_Sentinel_Thompson_FLOvsKEN_wk2.txt
+Char Count: 6029
+Word Count: 1271
+Lines Count: 37
+File Name: Palm-Beach-Post_Dooley_FLOvsKEN_wk2.txt
+Char Count: 3460
+Word Count: 782
+Lines Count: 40
+File Name: St.Augustine-Record_Long_FLOvsKEN_wk2.txt
+Char Count: 4234
+Word Count: 862
+Lines Count: 37
+File Name: Tampa-Bay-Times_Baker_FLOvsKEN_wk2.txt
+Char Count: 3496
+Word Count: 748
+Lines Count: 26
+Total Char Count: 25472
+Total Word Count: 5433
+Total Line Count: 205
+Average Char Count: 3638
+Average Word Count: 776
+Average Line Count: 29

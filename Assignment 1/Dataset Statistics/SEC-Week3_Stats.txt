@@ -1,0 +1,34 @@
+File Name: Independent-Florida-Alligator_Stine_FLOvsCOS_wk3.txt
+Char Count: 3233
+Word Count: 697
+Lines Count: 17
+File Name: Local-10_Long_FLOvsCOS_wk3.txt
+Char Count: 2474
+Word Count: 512
+Lines Count: 22
+File Name: Ocala-Star-Banner_Andreu_FLOvsCOS_wk3.txt
+Char Count: 3303
+Word Count: 722
+Lines Count: 22
+File Name: Orlando_Sentinel_Thompson_FLOvsCOS_wk3.txt
+Char Count: 3752
+Word Count: 815
+Lines Count: 29
+File Name: Palm-Beach-Post_Long_FLOvsCOS_wk3.txt
+Char Count: 3229
+Word Count: 681
+Lines Count: 27
+File Name: St.Augustine-Record_Thompson_FLOvsCOS_wk3.txt
+Char Count: 3465
+Word Count: 721
+Lines Count: 23
+File Name: Tampa-Bay-Times_Baker_FLOvsCOS_wk3.txt
+Char Count: 3038
+Word Count: 626
+Lines Count: 22
+Total Char Count: 22494
+Total Word Count: 4774
+Total Line Count: 162
+Average Char Count: 3213
+Average Word Count: 682
+Average Line Count: 23
