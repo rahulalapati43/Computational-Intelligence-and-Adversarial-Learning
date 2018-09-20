@@ -1,0 +1,34 @@
+File Name: Independent-Florida-Alligator_Stine_FLOvsCHS_wk1.txt
+Char Count: 3473
+Word Count: 749
+Lines Count: 21
+File Name: Local-10_Long_FLOvsCHS_wk1.txt
+Char Count: 3308
+Word Count: 648
+Lines Count: 26
+File Name: Ocala-Star-Banner_Andreu_FLOvsCHS_wk1.txt
+Char Count: 2770
+Word Count: 606
+Lines Count: 20
+File Name: Orlando_Sentinel_Thompson_FLOvsCHS_wk1.txt
+Char Count: 5129
+Word Count: 1079
+Lines Count: 34
+File Name: Palm-Beach-Post_Dooley_FLOvsCHS_wk1.txt
+Char Count: 3286
+Word Count: 726
+Lines Count: 33
+File Name: St.Augustine-Record_Long_FLOvsCHS_wk1.txt
+Char Count: 2993
+Word Count: 598
+Lines Count: 23
+File Name: Tampa-Bay-Times_Baker_FLOvsCHS_wk1.txt
+Char Count: 3488
+Word Count: 712
+Lines Count: 23
+Total Char Count: 24447
+Total Word Count: 5118
+Total Line Count: 180
+Average Char Count: 3492
+Average Word Count: 731
+Average Line Count: 25
