@@ -67,7 +67,7 @@ for file in writing_samples_files:
         squared_sum += math.pow((value - 0), 2)
 
     magnititude = math.sqrt(squared_sum)
-
+    print magnititude
     #getting the normalized feature vectors
     for value in range(0,len(values)-1):
         raw_fv_file.write(str(values[value]) + ',')

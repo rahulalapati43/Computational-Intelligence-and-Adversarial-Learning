@@ -36,12 +36,12 @@ if __name__ == '__main__':
 
         ar_translated_lines = []
         for line in en_translated_lines:
-            trans_line = translator.translate(line,'en-ar')
+            trans_line = translator.translate(line, 'en-ar')
             ar_translated_lines.append(trans_line['text'][0])
 
         en_translated_lines = []
         for line in ar_translated_lines:
-            trans_line = translator.translate(line,'ar-en')
+            trans_line = translator.translate(line, 'ar-en')
             en_translated_lines.append(trans_line['text'][0])
 
         output_file_name = writing_sample.split('.')
